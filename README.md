@@ -14,3 +14,4 @@ This is a portfolio for Professor Mazidi's 4395 class (spring 2023) where we wil
   - additional files: [anat19.txt](anat19.txt)
 
 (3) [WordNet:](madeamwordnet.py) use the WordNet and SentiWordNet lexical database along with NLTK for sentiment analysis, semantical disambiguation, and linguistic exploration.
+  - additional files: [madeamwordnet.ipynb.pdf](madeamwordnet.ipynb.pdf)
