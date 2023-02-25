@@ -12,3 +12,5 @@ This is a portfolio for Professor Mazidi's 4395 class (spring 2023) where we wil
 
 (2) [Word Guessing Game:](word_guess_game.py) use a .txt file along with the NLTK library to reveal insights about lexical diversity and statistics for certain parts of speech within the sample. After processing, the 50 most common nouns from the text are used to play a word guessing game.
   - additional files: [anat19.txt](anat19.txt)
+
+(3) [WordNet:](madeamwordnet.py) use the WordNet and SentiWordNet lexical database along with NLTK for sentiment analysis, semantical disambiguation, and linguistic exploration.
