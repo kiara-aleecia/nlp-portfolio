@@ -15,3 +15,6 @@ This is a portfolio for Professor Mazidi's 4395 class (spring 2023) where we wil
 
 (3) [WordNet:](madeamwordnet.py) use the WordNet and SentiWordNet lexical database along with NLTK for sentiment analysis, semantical disambiguation, and linguistic exploration.
   - additional files: [madeamwordnet.ipynb.pdf](madeamwordnet.ipynb.pdf)
+  
+(4) [Ngrams:](https://github.com/cmn180003/Ngrams) gain experience creating ngrams from text, build a language model from those ngrams, and reflect on the utility of our language model. Create and use bigram and unigram dictionaries from English, French, and Italian to calculate probabilities of each language against test data.
+  - Additional Contributor: [Crystal](https://github.com/cmn180003/)
