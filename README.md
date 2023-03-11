@@ -18,3 +18,7 @@ This is a portfolio for Professor Mazidi's 4395 class (spring 2023) where we wil
   
 (4) [Ngrams:](https://github.com/cmn180003/Ngrams) gain experience creating ngrams from text, build a language model from those ngrams, and reflect on the utility of our language model. Create and use bigram and unigram dictionaries from English, French, and Italian to calculate probabilities of each language against test data.
   - additional contributor: [Crystal](https://github.com/cmn180003/)
+  
+(5) [WebCrawler:](https://github.com/kiara-aleecia/WebCrawler) build a simple knowledge base for a chatbot after scraping >15 relevant websites for a predetermined topic. Use NLTK and RE for text processing, as well as TF-IDF to calculate and generate relevant sentences for the chatbot. This knowledge base and chatbot will be implemented in a future assignment.
+  - additional contributor: [Crystal](https://github.com/cmn180003/)
+
