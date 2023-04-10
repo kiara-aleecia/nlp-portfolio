@@ -30,3 +30,6 @@ This is a portfolio for Professor Mazidi's 4395 class (spring 2023) where we wil
   - Find the dataset [here](https://www.kaggle.com/datasets/yasserh/imdb-movie-ratings-sentiment-analysis?resource=download).
   - Find the post-analysis [here](4395TextClassificationAnalysis.pdf).
 
+(8) [ACL Conference Paper Summary:](4395ACLPaperSummary.pdf) summarize, in approximately 2 pages, a paper from the 60th annual Association for Computational Linguistics (ACL) conference
+  - Paper used: Exploring and Adapting Chinese GPT to Pinyin Input Method by Tan et. al. 
+    - Find it [here](https://aclanthology.org/2022.acl-long.133.pdf)
