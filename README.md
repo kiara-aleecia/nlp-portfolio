@@ -33,3 +33,16 @@ This is a portfolio for Professor Mazidi's 4395 class (spring 2023) where we wil
 (8) [ACL Conference Paper Summary:](4395ACLPaperSummary.pdf) summarize, in approximately 2 pages, a paper from the 60th annual Association for Computational Linguistics (ACL) conference
   - Paper used: Exploring and Adapting Chinese GPT to Pinyin Input Method by Tan et. al. 
     - Find it [here](https://aclanthology.org/2022.acl-long.133.pdf)
+    
+(9) [ChatBot:](https://github.com/kiara-aleecia/StitchyBot) create a chatbot that can discuss a topic and remember things about different users. The project includes various NLP techniques learned over the course of the semester such as text-preprocessing, term frequency measures, information retrieval techniques, etc.
+  - additional contributor: [Crystal](https://github.com/cmn180003/)
+
+(10) [Text Classification 2:](madeamtextclassification2.ipynb) find a suitable dataset for text classification and use different machine learning architectures. I chose to use a Genius lyrics dataset to create a song-genre classification model. The models should be able to predict the correct genre tag of the song. The dataset was exceedingly large and difficult to work with on my device, so I only used the first 2500 datapoints.
+  - ML Architecture: RNN, CNN, various embedding approaches, etc.
+  - Find the dataset [here](https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information).
+
+## Final Portfolio Wrap-Up:
+An overview of what I learned this semester and potential future endeavors:
+  - Technical Skills: Python and use of various Python libraries (NLTK, SpaCy, Pandas, Tensorflow, SKLearn, etc.), text processing, machine learning concepts, further experience with Git version control, and a deeper understanding of linguistics
+  - Soft Skills: organization, prioritization, time and project management, flexibility for team and independent work, etc.
+  - Conclusion: I believe that after this semester, I have an extensive understanding of the field of NLP and I am excited to continue exploring such an interesting crossroads of linguistics and computer science. If I could do any project, regardless of time or money, I would choose to leverage the current advancements in the field of NLP to progress the current state of language education in the United States. I would particularly focus on ways that we can more effectively teach a second language during early childhood in more schools so that a greater number of children can reap the cognitive benefits of bilingualism.
